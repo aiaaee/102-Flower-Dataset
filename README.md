@@ -12,7 +12,7 @@ The data needed for evaluation are:
 
 [&Chi2 distances](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/distancematrices102.mat) - As used in the ICVGIP 2008 publication.
 
-The image labels
+[The image labels](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/imagelabels.mat)
 
 The data splits
 
