@@ -20,3 +20,6 @@ The [README](https://thor.robots.ox.ac.uk/flowers/102/README.txt) file explains 
 
 
 ## Visualization of the dataset
+We visualize the categories in the dataset using SIFT features as shape descriptors and HSV as colour descriptor. The images are randomly sampled from the category.
+
+https://www.robots.ox.ac.uk/~vgg/data/flowers/102/T_shapeiso.jpg
