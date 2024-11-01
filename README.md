@@ -24,3 +24,10 @@ We visualize the categories in the dataset using SIFT features as shape descript
 
 ![T_colouriso](https://github.com/user-attachments/assets/0d8d53d0-9317-421e-9f02-61c5ede954de) ![T_shapeiso](https://github.com/user-attachments/assets/078f70b0-bf8a-49c4-ac8a-695a29eb7c39)
 
+
+## Publications
+
+Nilsback, M-E. and Zisserman, A.
+Automated flower classification over a large number of classes  
+Proceedings of the Indian Conference on Computer Vision, Graphics and Image Processing (2008)
+
