@@ -20,6 +20,8 @@ The data needed for evaluation are:
 
 The [README](https://thor.robots.ox.ac.uk/flowers/102/README.txt) file explains everything.
 
+![download](https://github.com/user-attachments/assets/516f3ee6-c51d-4b98-8a97-0ed16292d4b9)
+
 
 ## Visualization of the dataset
 We visualize the categories in the dataset using SIFT features as shape descriptors and HSV as colour descriptor. The images are randomly sampled from the category.
