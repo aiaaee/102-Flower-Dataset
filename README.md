@@ -16,5 +16,5 @@ The data needed for evaluation are:
 
 [The data splits](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/setid.mat)
 
-The README file explains everything.
+The [README](https://thor.robots.ox.ac.uk/flowers/102/README.txt) file explains everything.
 
