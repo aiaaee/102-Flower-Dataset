@@ -18,3 +18,5 @@ The data needed for evaluation are:
 
 The [README](https://thor.robots.ox.ac.uk/flowers/102/README.txt) file explains everything.
 
+
+## Visualization of the dataset
