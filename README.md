@@ -6,7 +6,9 @@ The images have large scale, pose and light variations. In addition, there are c
 ## Downloads
 The data needed for evaluation are:
 [Dataset images](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz)
+
 [Image segmentations](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/102segmentations.tgz)
+
 [&Chi2 distances](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/distancematrices102.mat) - As used in the ICVGIP 2008 publication.
 The image labels
 The data splits
