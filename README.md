@@ -14,7 +14,7 @@ The data needed for evaluation are:
 
 [The image labels](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/imagelabels.mat)
 
-The data splits
+[The data splits](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/setid.mat)
 
 The README file explains everything.
 
